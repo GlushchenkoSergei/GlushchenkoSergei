@@ -1,18 +1,17 @@
 
 ![header](https://github.com/GlushchenkoSergei/GlushchenkoSergei/blob/main/header.png?raw=true)
-<!--
-### Hi there 👋
+## I have a great desire and ambition to develop in this field.
+___
+  Projects:
+  + [English-Book](https://github.com/GlushchenkoSergei/English-Book) - The app for learning english words
+  + [GymApp2](https://github.com/GlushchenkoSergei/GymApp2) - Training notebook
+  + [Surfing](https://github.com/GlushchenkoSergei/Surfing) - Animated screen using SwiftUI
 
-**GlushchenkoSergei/GlushchenkoSergei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I already know: Swift (1)
+  > - Principles of OOP, POP
+  > - Technology: UIKit, Swift UI, Auto layout, GIT, GCD, SOLID, DRY, KISS, YAGNI
+  > - Networking: URLSession, Alamofire
+  > - Animations: Animations: Core Animation, Spring
+  > - Data Storage: UserDefaults, CoreData, Realm, Firebase
+  > - Architectures: VIPER, MVC, Clean Architecture, MVP, MVVM,
+  > - Addiction managers: CocoaPods.
