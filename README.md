@@ -15,3 +15,7 @@ ___
   > - Data Storage: UserDefaults, CoreData, Realm, Firebase
   > - Architectures: VIPER, MVC, Clean Architecture, MVP, MVVM,
   > - Addiction managers: CocoaPods.
+  ___
+  You can reach me by email: glushenko6314@icloud.com
+  
+  Telegram: [gl_sergey](https://t.me/gl_sergeyy)
