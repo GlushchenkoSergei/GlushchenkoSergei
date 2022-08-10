@@ -11,7 +11,7 @@ ___
   > - Principles of OOP, POP
   > - Technology: UIKit, Swift UI, Auto layout, GIT, GCD, SOLID, DRY, KISS, YAGNI
   > - Networking: URLSession, Alamofire
-  > - Animations: Animations: Core Animation, Spring
+  > - Animations: Core Animation, Spring
   > - Data Storage: UserDefaults, CoreData, Realm, Firebase
   > - Architectures: VIPER, MVC, Clean Architecture, MVP, MVVM,
   > - Addiction managers: CocoaPods.
