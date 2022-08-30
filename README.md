@@ -14,7 +14,7 @@ ___
   > - Animations: Core Animation, Spring
   > - Data Storage: UserDefaults, CoreData, Realm, Firebase
   > - Architectures: VIPER, MVC, Clean Architecture, MVP, MVVM,
-  > - Addiction managers: CocoaPods.
+  > - Dependency managers: CocoaPods.
   ___
   You can reach me by email: glushenko6314@icloud.com
   
